@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amazingturtle&label=Profile%20views&color=0e75b6&style=flat" alt="amazingturtle" /> </p>
 
-- 🔭 I’m currently working on [refind.ai](https://refind.ai/)
+- 🔭 I’m currently working on [everfind.ai](https://everfind.ai/)
 
-- 🌱 I’m currently learning **machine learning stuff**
+- 🌱 I’m currently learning **anything that comes in my path** :D
 
 - 🤝 I’m looking for help with [the party app](https://github.com/AmazingTurtle/party-app-v2)
 
-- 💬 Ask me about **llm and document management**
+- 💬 Ask me about **my take on Language Models**
 
 - 📫 How to reach me **contact@turtledev.net**
 
-- ⚡ Fun fact **I eat way to much sauce hollandaise**
+- ⚡ Fun fact **I learned assembly by using OllyDBG before I learned C**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
