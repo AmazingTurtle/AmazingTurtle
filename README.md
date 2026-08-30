@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm AmazingTurtle</h1>
-<h3 align="center">passionate devops engineer and founder</h3>
+<h3 align="center">devops engineer, freelancer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amazingturtle&label=Profile%20views&color=0e75b6&style=flat" alt="amazingturtle" /> </p>
 
-- 🔭 I’m currently working on [everfind.ai](https://everfind.ai/)
+I've seen a few things. Most of the time I know what I am talking about and admit when I have no clue. Here to learn new things. I do have a fair bit of seniority though. Read more about me on [my website](https://www.turtledev.net/en/about).
 
-- 🌱 I’m currently learning **anything that comes in my path** :D
-
-- 🤝 I’m looking for help with [the party app](https://github.com/AmazingTurtle/party-app-v2)
-
-- 💬 Ask me about **my take on Language Models**
+Join my coding dojo on [discord](https://discord.gg/GWfvdN5GxZ) - a place for like-minded who like to chat and share programming stuff and slop.
 
 - 📫 How to reach me **contact@turtledev.net**
 
-- ⚡ Fun fact **I learned assembly by using OllyDBG before I learned C**
+- ⚡ Fun fact: **I learned assembly by reverse engineering games before I learned C**! I think that's outstanding.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
